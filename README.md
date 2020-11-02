@@ -1,7 +1,6 @@
 # Recommender-Systems-with-Python
 
 
-
  developing basic recommendation systems using Python and pandas for Movie Datasets.
 
 
